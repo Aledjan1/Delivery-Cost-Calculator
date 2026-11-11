@@ -61,11 +61,7 @@ During this project, I worked with:
 
 ## Live Demo
 
-[View Live Project](YOUR_GITHUB_PAGES_URL)
-
-## Source Code
-
-[GitHub Repository](YOUR_GITHUB_REPOSITORY_URL)
+https://aledjan1.github.io/Delivery-Cost-Calculator/
 
 ## Author
 
